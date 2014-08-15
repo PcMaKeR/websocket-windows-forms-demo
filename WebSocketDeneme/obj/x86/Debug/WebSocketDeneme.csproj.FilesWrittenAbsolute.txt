@@ -1,0 +1,11 @@
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/WebSocketDeneme.exe.mdb
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/WebSocketDeneme.exe
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/obj/x86/Debug/WebSocketDeneme.exe
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/obj/x86/Debug/WebSocketDeneme.exe.mdb
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/log4net.dll
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/Newtonsoft.Json.dll
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/SuperSocket.Common.dll
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/SuperSocket.SocketBase.dll
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/SuperSocket.SocketEngine.dll
+/home/serdar/Projects/WebSocketDeneme/WebSocketDeneme/bin/Debug/SuperWebSocket.dll
